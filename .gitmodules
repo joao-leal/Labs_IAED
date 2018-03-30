@@ -1,3 +1,6 @@
 [submodule "Lab6"]
 	path = Lab6
 	url = "https://github.com/joao-leal/Labs_IAED/tree/lab6/lab6"
+[submodule "Labs_IAED"]
+	path = Labs_IAED
+	url = https://github.com/joao-leal/Labs_IAED
